@@ -108,7 +108,6 @@ seaborn==0.10.1
 Send2Trash==1.5.0
 setuptools-git==1.2
 simpervisor==0.3
-sip==4.19.13
 six==1.14.0
 sklearn==0.0
 soupsieve==2.0
