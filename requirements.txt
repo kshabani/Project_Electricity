@@ -55,7 +55,7 @@ jupyter-dash==0.2.1.post1
 jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
-jupyter-server-proxy==1.0
+jupyter-server-proxy==3.2.1
 jupyterlab==2.1.2
 jupyterlab-dash==0.1.0a3
 jupyterlab-server==1.1.4
